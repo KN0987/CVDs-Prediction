@@ -4,28 +4,25 @@
 ``EDA.ipynb`` - Compares bagged decision tree and logistic regression
 
 ## Project Structure
-CVDs Prediction/
-│
+CVD Prediction/
 ├── Exploratory Data Analysis/
-│   ├── images/
-│   └── Models/
-│ 
+├── images/
+├── Models/
 ├── Flask/
-│   ├── static/
-│   ├── templates/
-│   ├── app.py
-
+│ ├── static/
+│ ├── templates/
+│ └── app.py
 
 ## Installation
 Clone the repository:
 git clone https://github.com/yourusername/heart-disease-prediction.git
 
 ## Set up
-In "Models" folder, run models.py to generate neccessary machine learning models.
+In the "Models" folder, run models.py to generate the necessary machine-learning models.
 
 ## Usage
-1) Open the ``flask`` folder in terminal.
-2) Run ``python app.py`` on the command line
+1) Open the ``Flask`` folder in terminal.
+2) Run ``app.py`` to start the localhost server
 3) Open the URL (localhost) on your browser.
 - It should look something like this: ``http://127.0.0.1:5000/``
 
