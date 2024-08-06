@@ -1,20 +1,29 @@
 # Heart Disease Prediction
 
 ## Exploring Data Analysis
-``EDA.ipynb`` - Compares bagged decision tree and logistic regression
+``EDA.ipynb`` - Data analysis and models comparison
 
 ## Project Structure
-CVD Prediction/
-├── Exploratory Data Analysis/
-├── images/
-├── Models/
-├── Flask/
-│ ├── static/
-│ ├── templates/
-│ └── app.py
+  CVD Prediction/
+
+    Exploratory Data Analysis/
+  
+      ├── images/
+  
+      ├── models/
+  
+    Flask/
+  
+      ├── static/
+      
+      ├── templates/
+  
+      ├── app.py
+
+     README.md
 
 ## Installation
-Clone the repository:
+Clone the repository:  
 git clone https://github.com/yourusername/heart-disease-prediction.git
 
 ## Set up
